@@ -4,7 +4,7 @@ This is an app that allows to view list of popular games and games developers. T
 ## Demo
 [View Demo Here]()
 ## Screenshots
-![App Screenshot]()
+![App Screenshot](https://github.com/alex-voievudko/world-of-games-app/blob/main/Demo_WoG(1).gif)
 ## Tech Stack
 The App is created using the following technology:
 - React.js with React Hooks
